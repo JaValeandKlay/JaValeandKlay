@@ -1,0 +1,1 @@
+This is a Readme for the fitbit project by JaVale and Klay.
