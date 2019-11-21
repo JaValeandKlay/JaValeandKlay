@@ -4,7 +4,11 @@ Background: The purpose of the this project was to examine data extracted from m
 
 ADMINISTRATIVE NOTES:
 
-Prophet Documentation: https://facebook.github.io/prophet/
+Prophet Documentation: 
+
+Quick overview and installation - https://facebook.github.io/prophet/
+In depth documentation - https://peerj.com/preprints/3190.pdf
+
 Prophet is an open source software released by facebooks Core Data Science Team.  We implemented it in Python. It is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.
 
 The following install are necessary for the ability to replicate the files in the repository:
